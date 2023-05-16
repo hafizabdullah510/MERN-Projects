@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Topics In Software Engineering",
+    "course_code": "CS501",
+    "credit_hours": 3,
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["DSA", "PF", "OOP"],
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "name": "Computer Vision",
+    "course_code": "CS502",
+    "credit_hours": 3,
+    "has_lab_credits": true,
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["PF", "ISE", "OOP", "DSA"],
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "name": "Web Technologies",
+    "course_code": "CS503",
+    "credit_hours": 3,
+    "has_lab_credits": true,
+
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["ISE", "DB", "OOP", "DSA"],
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "name": "Game Development",
+    "course_code": "CS504",
+    "credit_hours": 3,
+    "has_lab_credits": true,
+
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["PF", "DB"],
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "name": "Professional Practices Information Technology",
+    "course_code": "CS505",
+    "credit_hours": 3,
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["ISE", "DSA", "OOP", "DB", "PF"],
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "name": "Software Quality Engineering",
+    "course_code": "CS506",
+    "credit_hours": 3,
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["ISE", "PF", "OOP"],
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "name": "Software Design Architecture",
+    "course_code": "CS507",
+    "credit_hours": 3,
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["ISE", "PF", "OOP"],
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "name": "Numarical Computing",
+    "course_code": "CS508",
+    "credit_hours": 3,
+    "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla",
+    "pre_requisites": ["ISE", "PF", "OOP"],
+    "department": "6446b523ff125c14a9150e5d"
+  }
+]

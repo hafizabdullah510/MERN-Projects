@@ -1,0 +1,74 @@
+[
+  {
+    "firstName": "Fatima",
+    "lastName": "Sabir",
+    "email": "f.sabir@cuilahore.edu.pk",
+    "gender": "female",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Abid",
+    "lastName": "Sohail",
+    "email": "a.sohail@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Asif",
+    "lastName": "Shahzad",
+    "email": "a.shahzad@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Mohsin",
+    "lastName": "Mehdi",
+    "email": "m.mehdi@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Tariq",
+    "lastName": "Umar",
+    "email": "t.umar@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Sadia",
+    "lastName": "Arshad",
+    "email": "s.arshad@cuilahore.edu.pk",
+    "gender": "female",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Sabeen",
+    "lastName": "Amjad",
+    "email": "s.amjad@cuilahore.edu.pk",
+    "gender": "female",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Touseef",
+    "lastName": "Tahir",
+    "email": "t.tahir@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "room_number": "D-115",
+    "start_time": "2023-05-01T13:00",
+    "end_time": "2023-05-01T14:30",
+    "day_of_week": "monday",
+    "course": "644fb09a157012c4ad16230f",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-114",
+    "start_time": "2023-05-05T11:30",
+    "end_time": "2023-05-05T13:00",
+    "day_of_week": "friday",
+    "course": "644fb09a157012c4ad16230f",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-110",
+    "start_time": "2023-05-02T16:00",
+    "end_time": "2023-05-02T17:30",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad16230f",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "D-114",
+    "start_time": "2023-05-05T16:00",
+    "end_time": "2023-05-05T17:30",
+    "day_of_week": "friday",
+    "course": "644fb09a157012c4ad16230f",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "C-19",
+    "is_lab_slot": true,
+    "start_time": "2023-05-03T13:00",
+    "end_time": "2023-05-03T16:00",
+    "day_of_week": "wednesday",
+    "course": "644fb09a157012c4ad16230f",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "C-13",
+    "is_lab_slot": true,
+
+    "start_time": "2023-05-02T11:30",
+    "end_time": "2023-05-02T14:30",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad16230f",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-13",
+    "start_time": "2023-05-01T14:30",
+    "end_time": "2023-05-01T16:00",
+    "day_of_week": "monday",
+    "course": "644fb09a157012c4ad162314",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-115",
+    "start_time": "2023-05-03T14:30",
+    "end_time": "2023-05-03T16:00",
+    "day_of_week": "wednesday",
+    "course": "644fb09a157012c4ad162314",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "A-06",
+    "start_time": "2023-05-02T10:00",
+    "end_time": "2023-05-02T11:30",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad162314",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "D-111",
+    "start_time": "2023-05-05T14:30",
+    "end_time": "2023-05-05T16:00",
+    "day_of_week": "friday",
+    "course": "644fb09a157012c4ad162314",
+    "section": "FA20-BSE-A"
+  },
+
+  {
+    "room_number": "D-114",
+    "start_time": "2023-05-01T16:00",
+    "end_time": "2023-05-01T17:30",
+    "day_of_week": "monday",
+    "course": "644fb09a157012c4ad162310",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-115",
+    "start_time": "2023-05-04T16:00",
+    "end_time": "2023-05-04T17:30",
+    "day_of_week": "thursday",
+    "course": "644fb09a157012c4ad162310",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-14",
+    "start_time": "2023-05-02T14:30",
+    "end_time": "2023-05-02T16:00",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad162310",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "D-114",
+    "start_time": "2023-05-04T14:30",
+    "end_time": "2023-05-04T16:00",
+    "day_of_week": "thursday",
+    "course": "644fb09a157012c4ad162310",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "C-19",
+    "is_lab_slot": true,
+
+    "start_time": "2023-05-01T11:30",
+    "end_time": "2023-05-01T14:30",
+    "day_of_week": "monday",
+    "course": "644fb09a157012c4ad162310",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "C-08",
+    "is_lab_slot": true,
+    "start_time": "2023-05-03T11:30",
+    "end_time": "2023-05-03T14:30",
+    "day_of_week": "wednesday",
+    "course": "644fb09a157012c4ad162310",
+    "section": "FA20-BSE-B"
+  },
+
+  {
+    "room_number": "D-110",
+    "start_time": "2023-05-02T14:30",
+    "end_time": "2023-05-02T16:00",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad162311",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-111",
+    "start_time": "2023-05-05T16:00",
+    "end_time": "2023-05-05T17:30",
+    "day_of_week": "friday",
+    "course": "644fb09a157012c4ad162311",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-110",
+    "start_time": "2023-05-03T16:00",
+    "end_time": "2023-05-03T17:30",
+    "day_of_week": "wednesday",
+    "course": "644fb09a157012c4ad162311",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "D-114",
+    "start_time": "2023-05-04T16:00",
+    "end_time": "2023-05-04T17:30",
+    "day_of_week": "thursday",
+    "course": "644fb09a157012c4ad162311",
+    "section": "FA20-BSE-A"
+  },
+
+  {
+    "room_number": "D-111",
+    "start_time": "2023-05-02T16:00",
+    "end_time": "2023-05-02T17:30",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad162312",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-11",
+    "start_time": "2023-05-03T16:00",
+    "end_time": "2023-05-03T17:30",
+    "day_of_week": "wednesday",
+    "course": "644fb09a157012c4ad162312",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-13",
+    "start_time": "2023-05-01T16:00",
+    "end_time": "2023-05-01T17:30",
+    "day_of_week": "monday",
+    "course": "644fb09a157012c4ad162312",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "D-114",
+    "start_time": "2023-05-02T11:30",
+    "end_time": "2023-05-02T13:00",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad162312",
+    "section": "FA20-BSE-A"
+  },
+
+  {
+    "room_number": "D-11",
+    "start_time": "2023-05-04T14:30",
+    "end_time": "2023-05-04T16:00",
+    "day_of_week": "thursday",
+    "course": "644fb09a157012c4ad162313",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-10",
+    "start_time": "2023-05-05T14:30",
+    "end_time": "2023-05-05T16:00",
+    "day_of_week": "friday",
+    "course": "644fb09a157012c4ad162313",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-11",
+    "start_time": "2023-05-01T14:30",
+    "end_time": "2023-05-01T16:00",
+    "day_of_week": "monday",
+    "course": "644fb09a157012c4ad162313",
+    "section": "FA20-BSE-A"
+  },
+  {
+    "room_number": "C-06",
+    "start_time": "2023-05-04T13:00",
+    "end_time": "2023-05-04T14:30",
+    "day_of_week": "thursday",
+    "course": "644fb09a157012c4ad162313",
+    "section": "FA20-BSE-A"
+  },
+
+  {
+    "room_number": "N-112",
+    "start_time": "2023-05-02T10:00",
+    "end_time": "2023-05-02T11:30",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad16230d",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "N-11",
+    "start_time": "2023-05-04T10:00",
+    "end_time": "2023-05-04T11:30",
+    "day_of_week": "thursday",
+    "course": "644fb09a157012c4ad16230d",
+    "section": "FA20-BSE-B"
+  },
+
+  {
+    "room_number": "D-19",
+    "start_time": "2023-05-04T08:00",
+    "end_time": "2023-05-04T10:00",
+    "day_of_week": "thursday",
+    "course": "644fb09a157012c4ad16230e",
+    "section": "FA20-BSE-B"
+  },
+  {
+    "room_number": "D-20",
+    "start_time": "2023-05-03T08:00",
+    "end_time": "2023-05-03T10:00",
+    "day_of_week": "wednesday",
+    "course": "644fb09a157012c4ad16230e",
+    "section": "FA20-BSE-B"
+  },
+
+  {
+    "room_number": "C-19",
+    "is_lab_slot": true,
+    "start_time": "2023-05-02T08:00",
+    "end_time": "2023-05-02T11:00",
+    "day_of_week": "tuesday",
+    "course": "644fb09a157012c4ad16230e",
+    "section": "FA20-BSE-B"
+  }
+]

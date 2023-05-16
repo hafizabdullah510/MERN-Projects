@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Quiz 1",
+    "assessment_type": "quiz",
+    "course": "644fb09a157012c4ad162310"
+  },
+  {
+    "title": "Quiz 2",
+    "assessment_type": "quiz",
+    "course": "644fb09a157012c4ad162310"
+  },
+  {
+    "title": "Quiz 1",
+    "assessment_type": "quiz",
+    "course": "644fb09a157012c4ad162314"
+  },
+  {
+    "title": "Assignment 1",
+    "assessment_type": "assignment",
+    "course": "644fb09a157012c4ad162314",
+    "is_lab_assessment": false
+  },
+  {
+    "title": "Assignment 1",
+    "assessment_type": "assignment",
+    "course": "644fb09a157012c4ad162311",
+    "is_lab_assessment": false
+  },
+  {
+    "title": "Assignment 2",
+    "assessment_type": "assignment",
+    "course": "644fb09a157012c4ad162311",
+    "is_lab_assessment": false
+  },
+  {
+    "title": "Quiz 1",
+    "assessment_type": "quiz",
+    "course": "644fb09a157012c4ad162311"
+  },
+  {
+    "title": "Quiz 2",
+    "assessment_type": "quiz",
+    "course": "644fb09a157012c4ad162311"
+  }
+]

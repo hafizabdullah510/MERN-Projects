@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "Muhammad",
+    "lastName": "Mehroz",
+    "email": "FA20-BSE-071@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "semester": 6,
+    "section": "FA20-BSE-B",
+    "program": "BSE",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Saim",
+    "lastName": "Hafeez",
+    "email": "FA20-BSE-011@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "semester": 6,
+    "section": "FA20-BSE-B",
+    "program": "BSE",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Arslan",
+    "lastName": "Jameel",
+    "email": "FA20-BSE-002@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "semester": 6,
+    "section": "FA20-BSE-B",
+    "program": "BSE",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "Rehman",
+    "email": "FA20-BSE-066@cuilahore.edu.pk",
+    "gender": "male",
+    "password": "secret",
+    "semester": 6,
+    "section": "FA20-BSE-A",
+    "program": "BSE",
+    "phoneNumber": "090078601",
+    "department": "6446b523ff125c14a9150e5d"
+  }
+]

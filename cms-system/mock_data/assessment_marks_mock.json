@@ -1,0 +1,42 @@
+[
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb662",
+    "obtained_marks": 9
+  },
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb665",
+    "obtained_marks": 8
+  },
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb666",
+    "obtained_marks": 9
+  },
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb667",
+    "obtained_marks": 8.5
+  },
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb668",
+    "obtained_marks": 8
+  },
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb669",
+    "obtained_marks": 9
+  },
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb664",
+    "obtained_marks": 9
+  },
+  {
+    "student": "644fb1040c3b30a0e3cf45ac",
+    "assessment": "6450cfd1081487cdd51bb663",
+    "obtained_marks": 7
+  }
+]
